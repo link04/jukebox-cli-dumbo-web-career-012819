@@ -3,6 +3,7 @@
 #with the correct path to this directory on your computer
 
  my_songs = {
+<<<<<<< HEAD
  "Go Go GO" => '/Users/maximoBautista/Development/jukebox-cli-dumbo-web-career-012819/audio/Emerald-Park/01.mp3',
  "LiberTeens" => '/Users/maximoBautista/Development/jukebox-cli-dumbo-web-career-012819/audio/Emerald-Park/02.mp3',
  "Hamburg" =>'/Users/maximoBautista/Development/jukebox-cli-dumbo-web-career-012819/audio/Emerald-Park/03.mp3',
@@ -10,6 +11,15 @@
  "Wolf" => '/Users/maximoBautista/Development/jukebox-cli-dumbo-web-career-012819/audio/Emerald-Park/05.mp3',
  "Blue" => '/Users/maximoBautista/Development/jukebox-cli-dumbo-web-career-012819/audio/Emerald-Park/06.mp3',
  "Graduation Failed" => '/Users/maximoBautista/Development/jukebox-cli-dumbo-web-career-012819/audio/Emerald-Park/07.mp3'
+=======
+ "Go Go GO" => 'home/incredible-tree-9522/jukebox-cli-dumbo-web-career-012819/audio/Emerald-Park/01.mp3',
+ "LiberTeens" => 'home/incredible-tree-9522/jukebox-cli-dumbo-web-career-012819/audio/Emerald-Park/02.mp3',
+ "Hamburg" =>  'home/incredible-tree-9522/jukebox-cli-dumbo-web-career-012819/audio/Emerald-Park/03.mp3',
+ "Guiding Light" => 'home/incredible-tree-9522/jukebox-cli-dumbo-web-career-012819/audio/Emerald-Park/04.mp3',
+ "Wolf" => 'home/incredible-tree-9522/jukebox-cli-dumbo-web-career-012819/audio/Emerald-Park/05.mp3',
+ "Blue" => 'home/incredible-tree-9522/jukebox-cli-dumbo-web-career-012819/audio/Emerald-Park/06.mp3',
+ "Graduation Failed" => 'home/incredible-tree-9522/jukebox-cli-dumbo-web-career-012819/audio/Emerald-Park/07.mp3'
+>>>>>>> d39f3dc31733c5a53d135eaede6ff398c4ca9bca
  }
 
 def help
