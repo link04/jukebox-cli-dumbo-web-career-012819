@@ -20,11 +20,7 @@ end
 def play(songs)
   puts "Please enter a song name or number:"
   user_request = gets.chomp
-<<<<<<< HEAD
 
-=======
-  
->>>>>>> d39f3dc31733c5a53d135eaede6ff398c4ca9bca
   if user_request.to_i == 0
     if songs.include? user_request
       puts "Playing #{user_request}"
