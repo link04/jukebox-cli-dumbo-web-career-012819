@@ -10,11 +10,6 @@ songs = [
   "Amos Lee - Keep It Loose, Keep It Tight"
 ]
 
-<<<<<<< HEAD
-def help
-=======
-def help 
->>>>>>> d39f3dc31733c5a53d135eaede6ff398c4ca9bca
   puts "I accept the following commands:
   - help : displays this help message
   - list : displays a list of songs you can play
