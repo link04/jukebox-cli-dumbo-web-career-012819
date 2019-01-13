@@ -10,6 +10,7 @@ songs = [
   "Amos Lee - Keep It Loose, Keep It Tight"
 ]
 
+def help
   puts "I accept the following commands:
   - help : displays this help message
   - list : displays a list of songs you can play
@@ -61,11 +62,3 @@ def run(songs)
     puts "Invalid input, please try again"
   end
 end
-
-
-
-
-
-
-
->>>>>>> d39f3dc31733c5a53d135eaede6ff398c4ca9bca
